@@ -2,138 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/</loc>
     <lastmod>2025-12-15T11:07:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://charliefkj.github.io/CharlieBolgs/en/"
+                href="http://localhost:1313/CharlieBolgs/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/"
+                href="http://localhost:1313/CharlieBolgs/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/"
+                href="http://localhost:1313/CharlieBolgs/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/p/myfirstblog/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/p/myfirstblog/</loc>
     <lastmod>2025-12-15T11:07:21+08:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/post/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/post/</loc>
     <lastmod>2025-12-15T11:07:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/post/"
+                href="http://localhost:1313/CharlieBolgs/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/post/"
+                href="http://localhost:1313/CharlieBolgs/post/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/categories/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://charliefkj.github.io/CharlieBolgs/en/categories/"
+                href="http://localhost:1313/CharlieBolgs/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/categories/"
+                href="http://localhost:1313/CharlieBolgs/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/categories/"
+                href="http://localhost:1313/CharlieBolgs/categories/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/p/test-chinese/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/categories/test/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/page/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/archives/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/css/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/html/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/markdown/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/categories/syntax/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://charliefkj.github.io/CharlieBolgs/en/tags/"
+                href="http://localhost:1313/CharlieBolgs/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/tags/"
+                href="http://localhost:1313/CharlieBolgs/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/tags/"
+                href="http://localhost:1313/CharlieBolgs/tags/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/categories/themes/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/themes/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/p/placeholder-text/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="http://localhost:1313/CharlieBolgs/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/p/placeholder-text/"
+                href="http://localhost:1313/CharlieBolgs/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/tag-with-whitespaces/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/categories/test-with-whitespaces/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/tags/text/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/search/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/search/</loc>
   </url>
 </urlset>

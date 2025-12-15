@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/en/categories/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/categories/"
+                href="http://localhost:1313/CharlieBolgs/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/categories/"
+                href="http://localhost:1313/CharlieBolgs/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://charliefkj.github.io/CharlieBolgs/en/categories/"
+                href="http://localhost:1313/CharlieBolgs/en/categories/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/en/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/"
+                href="http://localhost:1313/CharlieBolgs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/"
+                href="http://localhost:1313/CharlieBolgs/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://charliefkj.github.io/CharlieBolgs/en/"
+                href="http://localhost:1313/CharlieBolgs/en/"
                 />
   </url><url>
-    <loc>https://charliefkj.github.io/CharlieBolgs/en/tags/</loc>
+    <loc>http://localhost:1313/CharlieBolgs/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://charliefkj.github.io/CharlieBolgs/tags/"
+                href="http://localhost:1313/CharlieBolgs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://charliefkj.github.io/CharlieBolgs/ar/tags/"
+                href="http://localhost:1313/CharlieBolgs/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://charliefkj.github.io/CharlieBolgs/en/tags/"
+                href="http://localhost:1313/CharlieBolgs/en/tags/"
                 />
   </url>
 </urlset>
